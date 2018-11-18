@@ -1,0 +1,5 @@
+java.io.EOFException
+	at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2917)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1502)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:422)
+	at labapp.Main.main(Main.java:47)
